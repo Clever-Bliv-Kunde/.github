@@ -8,8 +8,8 @@
     "serviceconnections": {
       "value": [
         {
-          "name": "gh_clever-bliv-kunde_organization_production",
-          "principalId": "e5261630-3b87-4250-a567-79b80c76dc38",
+          "name": "gh_clever-bliv-kunde_.github_production",
+          "principalId": "3aa38a32-6bf1-4864-9d60-153915e56752",
           "existing": true
         },
         {
