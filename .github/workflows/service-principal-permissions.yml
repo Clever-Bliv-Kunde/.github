@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "azure/**"
+  workflow_dispatch:
 
 permissions:
   contents: read
