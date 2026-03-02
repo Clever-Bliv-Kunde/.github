@@ -11,6 +11,21 @@
           "name": "gh_clever-bliv-kunde_organization_production",
           "principalId": "e5261630-3b87-4250-a567-79b80c76dc38",
           "existing": true
+        },
+        {
+          "name": "gh_clever-bliv-kunde_user-signup-ui_production",
+          "principalId": "49f77c41-6811-4e5c-a820-180519910b47",
+          "existing": true
+        },
+        {
+          "name": "gh_clever-bliv-kunde_terms-ui_production",
+          "principalId": "31dc1645-ee6c-45f2-b304-0a43ccfce560",
+          "existing": true
+        },
+        {
+          "name": "gh_clever-bliv-kunde_terms-service_production",
+          "principalId": "eb1b247b-5d1a-47ea-80fd-6b29acf0ad47",
+          "existing": true
         }
       ]
     }
