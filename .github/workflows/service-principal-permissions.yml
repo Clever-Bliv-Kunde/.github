@@ -1,0 +1,54 @@
+name: Give Service Principals Permissions
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "azure/**"
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        environment: [non-production, production]
+        
+    environment: ${{ matrix.environment }}
+
+    env:
+      LOCATION: swedencentral
+      TEMPLATE_FILE: azure/main.bicep
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Azure login and deploy
+        uses: ./.github/actions/azure-bicep-deploy
+        with:
+          client-id: ${{ secrets.CLIENT_ID }}
+          tenant-id: ${{ secrets.TENANT_ID }}
+          subscription-id: ${{ secrets.SUBSCRIPTION_ID }}
+          environment: ${{ matrix.environment }}
+
+      - name: Azure login (OIDC)
+        uses: azure/login@v2
+        with:
+          client-id: ${{ secrets.CLIENT_ID }}
+          tenant-id: ${{ secrets.TENANT_ID }}
+          subscription-id: ${{ secrets.SUBSCRIPTION_ID }}
+
+      - name: Deploy Bicep
+        shell: bash
+        run: |
+          az deployment sub create \
+            --location "${{ env.LOCATION }}" \
+            --template-file "${{ env.TEMPLATE_FILE }}" \
+            --parameters @"azure/environments/${{ matrix.environment }}.json"

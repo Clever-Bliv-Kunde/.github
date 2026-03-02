@@ -1,0 +1,23 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "environment": {
+      "value": "non-production"
+    },
+    "serviceconnections": {
+      "value": [
+        {
+          "name": ".github-non-production",
+          "principalId": "9db78b78-37fb-436d-9fe2-a661dc2cc6bb",
+          "existing": true
+        },
+        {
+          "name": "email-comms_development",
+          "principalId": "da5c708d-4ccb-4cb5-ad65-1a41b88922df",
+          "existing": false
+        }
+      ]
+    }
+  }
+}

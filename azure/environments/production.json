@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "environment": {
+      "value": "production"
+    },
+    "serviceconnections": {
+      "value": [
+        {
+          "name": ".github-production",
+          "principalId": "3c434057-6cae-4ea4-8208-cc980179b3bd",
+          "existing": true
+        },
+        {
+          "name": "email-comms_staging",
+          "principalId": "8a8baf33-b2be-40cf-9251-132d5b480aed"
+        },
+        {
+          "name": "email-comms_production",
+          "principalId": "89f3ce1d-74a3-4969-af52-8e244a3a8a70"
+        }
+      ]
+    }
+  }
+}
