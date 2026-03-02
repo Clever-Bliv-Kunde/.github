@@ -8,14 +8,9 @@
     "serviceconnections": {
       "value": [
         {
-          "name": ".github-non-production",
-          "principalId": "9db78b78-37fb-436d-9fe2-a661dc2cc6bb",
+          "name": "gh_clever-bliv-kunde_organization_non-production",
+          "principalId": "59a9f832-db1b-4cc6-b2b4-987caff57dea",
           "existing": true
-        },
-        {
-          "name": "email-comms_development",
-          "principalId": "da5c708d-4ccb-4cb5-ad65-1a41b88922df",
-          "existing": false
         }
       ]
     }
