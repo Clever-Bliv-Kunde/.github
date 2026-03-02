@@ -30,14 +30,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Azure login and deploy
-        uses: ./.github/actions/azure-bicep-deploy
-        with:
-          client-id: ${{ secrets.CLIENT_ID }}
-          tenant-id: ${{ secrets.TENANT_ID }}
-          subscription-id: ${{ secrets.SUBSCRIPTION_ID }}
-          environment: ${{ matrix.environment }}
-
       - name: Azure login (OIDC)
         uses: azure/login@v2
         with:
