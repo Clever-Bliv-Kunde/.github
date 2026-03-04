@@ -9,17 +9,17 @@
       "value": [
         {
           "name": "gh_clever-bliv-kunde_.github_non-production",
-          "principalId": "e7319a71-7641-4899-b444-c81b43bc4644",
+          "principalId": "6b80caba-6e45-4fae-8ca1-a1b8e597b427",
           "existing": true
         },
         {
           "name": "gh_clever-bliv-kunde_checkout-ui_development",
-          "principalId": "280bc984-fc0d-41c4-9def-3ac0e0fcb390",
+          "principalId": "a47bbb84-fe88-4b4f-b790-b6a88fcd8b2e",
           "existing": false
         },
         {
           "name": "gh_clever-bliv-kunde_checkout-ui_staging",
-          "principalId": "25ea8e59-1921-4c2c-9d9d-7089be65e9f8",
+          "principalId": "a2c5818b-155c-452f-b90f-0826dc6f39f0",
           "existing": false
         }
       ]
