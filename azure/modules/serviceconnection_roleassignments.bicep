@@ -53,16 +53,16 @@ resource svcconnDeploymentWriterRA 'Microsoft.Authorization/roleAssignments@2022
   }
 }
 
-resource cloudAppAdminGroup 'Microsoft.Graph/groups@v1.0' = {
-  uniqueName: groupCloudApplicationAdministrator
-  displayName: 'Sec - AccessRole - ServiceConnections - Cloud Application Administrator Role'
-  mailEnabled: false
-  mailNickname: 'sec-accessrole-svcconn-cloudappadmin'
-  securityEnabled: true
-  members: {
-    relationshipSemantics: 'append'
-    relationships: [
-      servicePrincipal
-    ]
-  }
-}
+// resource cloudAppAdminGroup 'Microsoft.Graph/groups@v1.0' = {
+//   uniqueName: groupCloudApplicationAdministrator
+//   displayName: 'Sec - AccessRole - ServiceConnections - Cloud Application Administrator Role'
+//   mailEnabled: false
+//   mailNickname: 'sec-accessrole-svcconn-cloudappadmin'
+//   securityEnabled: true
+//   members: {
+//     relationshipSemantics: 'append'
+//     relationships: [
+//       servicePrincipal
+//     ]
+//   }
+// }
