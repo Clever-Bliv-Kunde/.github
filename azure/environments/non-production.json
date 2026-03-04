@@ -13,26 +13,6 @@
           "existing": true
         },
         {
-          "name": "gh_clever-bliv-kunde_terms-ui_staging",
-          "principalId": "ce8df0a6-7787-496a-99f8-fc544301a3af",
-          "existing": false
-        },
-        {
-          "name": "gh_clever-bliv-kunde_terms-service_staging",
-          "principalId": "972df45b-9ca8-4a26-9b90-1c580c7b38a7",
-          "existing": false
-        },
-        {
-          "name": "gh_clever-bliv-kunde_terms-ui_development",
-          "principalId": "f8ab2220-1fac-4b98-b4bf-e1002b695210",
-          "existing": false
-        },
-        {
-          "name": "gh_clever-bliv-kunde_terms-service_development",
-          "principalId": "eee0ffbb-970e-4dc6-9413-cd503af1742d",
-          "existing": false
-        },
-        {
           "name": "gh_clever-bliv-kunde_checkout-ui_development",
           "principalId": "a47bbb84-fe88-4b4f-b790-b6a88fcd8b2e",
           "existing": false
