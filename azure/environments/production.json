@@ -9,24 +9,14 @@
       "value": [
         {
           "name": "gh_clever-bliv-kunde_.github_production",
-          "principalId": "3aa38a32-6bf1-4864-9d60-153915e56752",
+          "principalId": "3d3330e7-7147-4548-a5f3-201b76dd98f2",
           "existing": true
         },
         {
-          "name": "gh_clever-bliv-kunde_user-signup-ui_production",
-          "principalId": "49f77c41-6811-4e5c-a820-180519910b47",
-          "existing": true
+          "name": "gh_clever-bliv-kunde_checkout-ui_production",
+          "principalId": "cc363427-d880-4694-a3c5-84831595e6fd",
+          "existing": false
         },
-        {
-          "name": "gh_clever-bliv-kunde_terms-ui_production",
-          "principalId": "31dc1645-ee6c-45f2-b304-0a43ccfce560",
-          "existing": true
-        },
-        {
-          "name": "gh_clever-bliv-kunde_terms-service_production",
-          "principalId": "eb1b247b-5d1a-47ea-80fd-6b29acf0ad47",
-          "existing": true
-        }
       ]
     }
   }
