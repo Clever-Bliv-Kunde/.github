@@ -21,6 +21,16 @@
           "name": "gh_clever-bliv-kunde_checkout-ui_staging",
           "principalId": "25ea8e59-1921-4c2c-9d9d-7089be65e9f8",
           "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_statistics-ui_staging",
+          "principalId": "3673fd8f-3613-4ff3-9fce-7999e3628562",
+          "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_statistics-ui_development",
+          "principalId": "de5a0583-3a01-4368-9548-dc2a4fd8b949",
+          "existing": false
         }
       ]
     }
