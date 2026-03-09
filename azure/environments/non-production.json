@@ -31,6 +31,16 @@
           "name": "gh_clever-bliv-kunde_statistics-ui_development",
           "principalId": "de5a0583-3a01-4368-9548-dc2a4fd8b949",
           "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_terms-ui_development",
+          "principalId": "9bd390ed-3ae0-41af-a539-2102fac4da73",
+          "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_terms-ui_staging",
+          "principalId": "8c70e3bf-abf7-4429-bfb5-af5a8c2f2147",
+          "existing": false
         }
       ]
     }

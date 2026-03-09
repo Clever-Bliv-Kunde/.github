@@ -21,6 +21,11 @@
           "name": "gh_clever-bliv-kunde_statistics-ui_production",
           "principalId": "698aa970-f2fc-4581-bdae-643486013e56",
           "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_terms-ui_production",
+          "principalId": "3eacd7b5-ec4c-40c3-a65b-f8cfc4735d7d",
+          "existing": false
         }
       ]
     }
