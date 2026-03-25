@@ -28,8 +28,8 @@
           "existing": false
         },
         {
-          "name": "gh_clever-bliv-kunde_sales-api-infra_production",
-          "principalId": "846c456a-241a-4d61-a29f-45e52a9c11ba",
+          "name": "gh_clever-bliv-kunde_sales-api-infrastructure_production",
+          "principalId": "1d358225-613d-47c4-9a8c-baa7a92100e5",
           "existing": false
         }
       ]
