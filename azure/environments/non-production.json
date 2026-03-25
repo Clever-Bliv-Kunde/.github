@@ -43,13 +43,13 @@
           "existing": false
         },
         {
-          "name": " gh_clever-bliv-kunde_sales-api-infra_development",
-          "principalId": "2dc8cb9d-4444-4a32-82da-03efb16cf727",
+          "name": " gh_clever-bliv-kunde_sales-api-infrastructure_development",
+          "principalId": "d764e0d4-6cfb-4b75-9cde-eb496aaf24fb",
           "existing": false
         },
         {
-          "name": " gh_clever-bliv-kunde_sales-api-infra_staging",
-          "principalId": "21d9bd15-6001-47a1-955e-e1b76f53d0de",
+          "name": " gh_clever-bliv-kunde_sales-api-infrastructure_staging",
+          "principalId": "0175396d-2df1-4486-87d6-eabe957e2977",
           "existing": false
         }
       ]
