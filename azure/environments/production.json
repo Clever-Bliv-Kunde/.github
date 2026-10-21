@@ -46,6 +46,11 @@
           "name": "gh_clever-bliv-kunde_address-service_production",
           "principalId": "cc8de244-ebab-4aa9-9b6a-158c957efdca",
           "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_sales-checkout-ui_production",
+          "principalId": "e0b7478b-9153-4320-ac4b-3f4c1bd8b334",
+          "existing": false
         }
       ]
     }
