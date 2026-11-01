@@ -145,6 +145,24 @@ public class TripPlannerTests
     }
 
     [Fact]
+    public void May_through_december_2023_fills_every_commute_day()
+    {
+        var counts = new int[12];
+        for (var month = 5; month <= 12; month++)
+            counts[month - 1] = WorkingCalendar.WorkingDays(2023, month).Count;
+
+        var rides = TripPlanner.Plan(2023, counts, new Random(2023));
+        var days = rides.Select(ride => DateOnly.FromDateTime(ride.Departure)).Distinct().ToArray();
+
+        Assert.Equal(169, days.Length);
+        Assert.Equal(338, rides.Count);
+        Assert.Equal(new DateOnly(2023, 12, 29), DateOnly.FromDateTime(rides[0].Departure));
+        Assert.Equal(new DateOnly(2023, 5, 1), DateOnly.FromDateTime(rides[^1].Departure));
+        Assert.DoesNotContain(rides, ride => ride.Departure.Date == new DateTime(2023, 5, 5));
+        Assert.DoesNotContain(rides, ride => ride.Departure.Month < 5);
+    }
+
+    [Fact]
     public void Explicit_days_each_get_one_round_trip_newest_first()
     {
         var rides = TripPlanner.PlanDays(

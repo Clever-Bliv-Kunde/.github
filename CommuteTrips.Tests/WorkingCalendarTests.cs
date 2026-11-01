@@ -52,6 +52,32 @@ public class WorkingCalendarTests
     public void Early_2025_excludes_weekends_and_new_years_day(int month, int expected) =>
         Assert.Equal(expected, WorkingCalendar.WorkingDays(2025, month).Count);
 
+    [Theory]
+    [InlineData(5, 20)]
+    [InlineData(6, 21)]
+    [InlineData(7, 21)]
+    [InlineData(8, 23)]
+    [InlineData(9, 21)]
+    [InlineData(10, 22)]
+    [InlineData(11, 22)]
+    [InlineData(12, 19)]
+    public void May_through_december_2023_excludes_weekends_and_holidays(int month, int expected) =>
+        Assert.Equal(expected, WorkingCalendar.WorkingDays(2023, month).Count);
+
+    [Theory]
+    [InlineData(5, 5)]
+    [InlineData(5, 18)]
+    [InlineData(5, 29)]
+    [InlineData(6, 5)]
+    [InlineData(12, 25)]
+    [InlineData(12, 26)]
+    public void The_2023_holidays_in_the_commute_range_are_closed(int month, int day) =>
+        Assert.DoesNotContain(new DateOnly(2023, month, day), WorkingCalendar.WorkingDays(2023, month));
+
+    [Fact]
+    public void May_first_2023_is_a_commute_day() =>
+        Assert.Contains(new DateOnly(2023, 5, 1), WorkingCalendar.WorkingDays(2023, 5));
+
     [Fact]
     public void New_years_day_2025_is_not_a_working_day()
     {
