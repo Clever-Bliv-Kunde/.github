@@ -36,6 +36,15 @@ public static class TripPlanner
         return rides.OrderByDescending(ride => ride.Departure).ToList();
     }
 
+    public static IReadOnlyList<Ride> PlanDays(IReadOnlyList<DateOnly> days, Random random)
+    {
+        var rides = new List<Ride>();
+        foreach (var day in days.OrderBy(day => day))
+            rides.AddRange(RoundTrip(day, random));
+
+        return rides.OrderByDescending(ride => ride.Departure).ToList();
+    }
+
     private static IEnumerable<Ride> RoundTrip(DateOnly day, Random random)
     {
         var origin = AddressCatalog.KoldingArea[random.Next(AddressCatalog.KoldingArea.Count)];

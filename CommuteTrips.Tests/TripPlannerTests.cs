@@ -145,6 +145,24 @@ public class TripPlannerTests
     }
 
     [Fact]
+    public void Explicit_days_each_get_one_round_trip_newest_first()
+    {
+        var rides = TripPlanner.PlanDays(
+            [new DateOnly(2024, 1, 8), new DateOnly(2024, 8, 30)],
+            new Random(201));
+
+        Assert.Equal(4, rides.Count);
+        Assert.Equal(new DateTime(2024, 8, 30), rides[0].Departure.Date);
+        Assert.Equal(new DateTime(2024, 8, 30), rides[1].Departure.Date);
+        Assert.Equal(new DateTime(2024, 1, 8), rides[2].Departure.Date);
+        Assert.Equal(new DateTime(2024, 1, 8), rides[3].Departure.Date);
+        Assert.True(rides[0].Departure.Hour >= 17);
+        Assert.True(rides[1].Departure.Hour < 12);
+        Assert.Equal(rides[1].FromStreet, rides[0].ToStreet);
+        Assert.Equal(rides[1].ToStreet, rides[0].FromStreet);
+    }
+
+    [Fact]
     public void Zero_round_trips_produce_no_rides() =>
         Assert.Empty(TripPlanner.Plan(2024, new int[12], new Random(1)));
 
