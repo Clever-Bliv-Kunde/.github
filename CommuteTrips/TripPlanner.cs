@@ -33,7 +33,7 @@ public static class TripPlanner
                 rides.AddRange(RoundTrip(day, random));
         }
 
-        return rides;
+        return rides.OrderByDescending(ride => ride.Departure).ToList();
     }
 
     private static IEnumerable<Ride> RoundTrip(DateOnly day, Random random)

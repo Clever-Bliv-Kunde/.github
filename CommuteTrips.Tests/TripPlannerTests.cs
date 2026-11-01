@@ -8,7 +8,7 @@ public class TripPlannerTests
         Assert.Equal(2, rides.Count);
         Assert.Equal(rides[0].Departure.Date, rides[1].Departure.Date);
         Assert.Equal(new DateOnly(2024, 1, 17), DateOnly.FromDateTime(rides[0].Departure));
-        Assert.True(rides[0].Departure.TimeOfDay < rides[1].Departure.TimeOfDay);
+        Assert.True(rides[0].Departure.TimeOfDay > rides[1].Departure.TimeOfDay);
     }
 
     [Fact]
@@ -18,6 +18,7 @@ public class TripPlannerTests
         var days = rides
             .Where(ride => ride.Departure.Hour < 12)
             .Select(ride => DateOnly.FromDateTime(ride.Departure))
+            .OrderBy(day => day)
             .ToArray();
 
         Assert.Equal(
@@ -53,10 +54,10 @@ public class TripPlannerTests
         var westCities = AddressCatalog.KoldingArea.Select(place => place.City).ToHashSet();
 
         Assert.Equal(4, rides.Count);
-        for (var i = 0; i < rides.Count; i += 2)
+        foreach (var day in rides.GroupBy(ride => ride.Departure.Date))
         {
-            var outbound = rides[i];
-            var inbound = rides[i + 1];
+            var outbound = day.Single(ride => ride.Departure.Hour < 12);
+            var inbound = day.Single(ride => ride.Departure.Hour >= 12);
 
             Assert.Contains(outbound.FromStreet, west);
             Assert.Contains(outbound.ToStreet, east);
@@ -113,11 +114,11 @@ public class TripPlannerTests
     }
 
     [Fact]
-    public void Rides_are_printed_in_departure_order()
+    public void Rides_are_printed_newest_first()
     {
         var rides = TripPlanner.Plan(2024, Enumerable.Repeat(2, 12).ToArray(), new Random(15));
         var departures = rides.Select(ride => ride.Departure).ToArray();
-        Assert.Equal(departures.OrderBy(departure => departure), departures);
+        Assert.Equal(departures.OrderByDescending(departure => departure), departures);
     }
 
     [Fact]
