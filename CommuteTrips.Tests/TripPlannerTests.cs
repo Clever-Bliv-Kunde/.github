@@ -122,6 +122,29 @@ public class TripPlannerTests
     }
 
     [Fact]
+    public void Early_2025_round_trips_are_listed_newest_first()
+    {
+        var counts = new int[12];
+        counts[0] = 14;
+        counts[1] = 12;
+        counts[2] = 12;
+
+        var rides = TripPlanner.Plan(2025, counts, new Random(2025));
+
+        Assert.Equal(76, rides.Count);
+        Assert.Equal(2025, rides[0].Departure.Year);
+        Assert.Equal(3, rides[0].Departure.Month);
+        Assert.Equal(1, rides[^1].Departure.Month);
+        Assert.DoesNotContain(rides, ride => ride.Departure.Date == new DateTime(2025, 1, 1));
+        Assert.Equal(
+            rides.Select(ride => ride.Departure),
+            rides.Select(ride => ride.Departure).OrderByDescending(departure => departure));
+        Assert.Equal(14, rides.Count(ride => ride.Departure.Month == 1 && ride.Departure.Hour < 12));
+        Assert.Equal(12, rides.Count(ride => ride.Departure.Month == 2 && ride.Departure.Hour < 12));
+        Assert.Equal(12, rides.Count(ride => ride.Departure.Month == 3 && ride.Departure.Hour < 12));
+    }
+
+    [Fact]
     public void Zero_round_trips_produce_no_rides() =>
         Assert.Empty(TripPlanner.Plan(2024, new int[12], new Random(1)));
 

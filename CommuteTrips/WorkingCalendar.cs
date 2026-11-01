@@ -1,7 +1,7 @@
 public static class WorkingCalendar
 {
-    // Weekday closures for 2024: Danish public holidays, Grundlovsdag,
-    // Christmas Eve, and New Year's Eve. Store Bededag was abolished in 2024.
+    // Danish public holidays, Grundlovsdag, Christmas Eve, and New Year's Eve.
+    // Store Bededag was abolished in 2024.
     private static readonly HashSet<DateOnly> Holidays =
     [
         new(2024, 1, 1),
@@ -17,12 +17,25 @@ public static class WorkingCalendar
         new(2024, 12, 25),
         new(2024, 12, 26),
         new(2024, 12, 31),
+        new(2025, 1, 1),
+        new(2025, 4, 17),
+        new(2025, 4, 18),
+        new(2025, 4, 20),
+        new(2025, 4, 21),
+        new(2025, 5, 29),
+        new(2025, 6, 5),
+        new(2025, 6, 8),
+        new(2025, 6, 9),
+        new(2025, 12, 24),
+        new(2025, 12, 25),
+        new(2025, 12, 26),
+        new(2025, 12, 31),
     ];
 
     public static IReadOnlyList<DateOnly> WorkingDays(int year, int month)
     {
-        if (year != 2024)
-            throw new ArgumentOutOfRangeException(nameof(year), "Only 2024 is supported.");
+        if (year is not (2024 or 2025))
+            throw new ArgumentOutOfRangeException(nameof(year), "Only 2024 and 2025 are supported.");
         if (month is < 1 or > 12)
             throw new ArgumentOutOfRangeException(nameof(month));
 

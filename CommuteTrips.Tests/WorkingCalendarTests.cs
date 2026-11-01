@@ -45,6 +45,21 @@ public class WorkingCalendarTests
         Assert.Contains(new DateOnly(2024, 12, 30), WorkingCalendar.WorkingDays(2024, 12));
     }
 
+    [Theory]
+    [InlineData(1, 22)]
+    [InlineData(2, 20)]
+    [InlineData(3, 21)]
+    public void Early_2025_excludes_weekends_and_new_years_day(int month, int expected) =>
+        Assert.Equal(expected, WorkingCalendar.WorkingDays(2025, month).Count);
+
+    [Fact]
+    public void New_years_day_2025_is_not_a_working_day()
+    {
+        var january = WorkingCalendar.WorkingDays(2025, 1);
+        Assert.DoesNotContain(new DateOnly(2025, 1, 1), january);
+        Assert.Contains(new DateOnly(2025, 1, 2), january);
+    }
+
     [Fact]
     public void Weekends_are_not_working_days()
     {
