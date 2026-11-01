@@ -1,0 +1,6527 @@
+Ride route: Nordre Frihavnsgade 22 -> Akseltorv 5
+Departure: 2025-03-31 19:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Nordre Frihavnsgade 22
+Departure: 2025-03-31 09:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Jernbanegade 8
+Departure: 2025-03-27 18:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Toftegårds Allé 8
+Departure: 2025-03-27 08:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Kolding -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Rendebanen 7
+Departure: 2025-03-25 19:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Nordre Frihavnsgade 22
+Departure: 2025-03-25 08:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Gothersgade 11
+Departure: 2025-03-21 19:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Bernstorffsgade 16
+Departure: 2025-03-21 09:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Jernbanegade 5
+Departure: 2025-03-20 17:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Sønder Boulevard 48
+Departure: 2025-03-20 07:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Fredericia -> København
+
+Ride route: Falkoner Allé 20 -> Banegårdspladsen 2
+Departure: 2025-03-18 19:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Falkoner Allé 20
+Departure: 2025-03-18 09:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Banegårdspladsen 4
+Departure: 2025-03-14 19:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Valby Langgade 34
+Departure: 2025-03-14 08:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Banegårdspladsen 4
+Departure: 2025-03-12 18:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Købmagergade 52
+Departure: 2025-03-12 07:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Jernbanegade 8
+Departure: 2025-03-11 19:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Sønder Boulevard 48
+Departure: 2025-03-11 09:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Jernbanegade 5
+Departure: 2025-03-07 18:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Købmagergade 52
+Departure: 2025-03-07 08:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Fredericia -> København
+
+Ride route: Købmagergade 52 -> Danmarksgade 16
+Departure: 2025-03-05 17:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Købmagergade 52
+Departure: 2025-03-05 07:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Algade 16
+Departure: 2025-03-03 19:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Toftegårds Allé 8
+Departure: 2025-03-03 08:15:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Middelfart -> København
+
+Ride route: Valby Langgade 34 -> Danmarksgade 16
+Departure: 2025-02-28 20:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Valby Langgade 34
+Departure: 2025-02-28 07:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Danmarksgade 16
+Departure: 2025-02-26 17:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Sønder Boulevard 48
+Departure: 2025-02-26 06:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Jernbanegade 8
+Departure: 2025-02-24 20:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Sønder Boulevard 48
+Departure: 2025-02-24 09:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Kolding -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Danmarksgade 16
+Departure: 2025-02-21 19:30:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Nordre Frihavnsgade 22
+Departure: 2025-02-21 09:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Fredericia -> København
+
+Ride route: Gammel Kongevej 80 -> Nørretorv 1
+Departure: 2025-02-19 17:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Gammel Kongevej 80
+Departure: 2025-02-19 08:15:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Vejle -> København
+
+Ride route: Vesterbrogade 6A -> Buen 1
+Departure: 2025-02-17 18:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Vesterbrogade 6A
+Departure: 2025-02-17 07:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Østergade 10
+Departure: 2025-02-14 18:30:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Sønder Boulevard 48
+Departure: 2025-02-14 07:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Dæmningen 14
+Departure: 2025-02-12 17:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Østerbrogade 70
+Departure: 2025-02-12 09:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Vejle -> København
+
+Ride route: Sønder Boulevard 48 -> Østergade 10
+Departure: 2025-02-10 20:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Sønder Boulevard 48
+Departure: 2025-02-10 07:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Akseltorv 5
+Departure: 2025-02-07 19:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Bernstorffsgade 16
+Departure: 2025-02-07 08:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Nørretorv 1
+Departure: 2025-02-05 19:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Istedgade 44
+Departure: 2025-02-05 09:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Vejle -> København
+
+Ride route: Allégade 10 -> Algade 16
+Departure: 2025-02-03 18:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Allégade 10
+Departure: 2025-02-03 09:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Middelfart -> København
+
+Ride route: Hellerupvej 12 -> Banegårdspladsen 2
+Departure: 2025-01-31 17:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Hellerupvej 12
+Departure: 2025-01-31 06:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Vejle -> København
+
+Ride route: Købmagergade 52 -> Østergade 10
+Departure: 2025-01-29 18:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Købmagergade 52
+Departure: 2025-01-29 06:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Buen 1
+Departure: 2025-01-28 19:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Østerbrogade 70
+Departure: 2025-01-28 09:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Dæmningen 14
+Departure: 2025-01-24 18:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Østerbrogade 70
+Departure: 2025-01-24 07:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Vejle -> København
+
+Ride route: Østerbrogade 70 -> Danmarksgade 16
+Departure: 2025-01-22 20:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Østerbrogade 70
+Departure: 2025-01-22 07:15:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Fredericia -> København
+
+Ride route: Vesterbrogade 6A -> Akseltorv 5
+Departure: 2025-01-21 20:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Vesterbrogade 6A
+Departure: 2025-01-21 09:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Nørretorv 1
+Departure: 2025-01-17 20:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Østerbrogade 70
+Departure: 2025-01-17 08:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Brogade 3
+Departure: 2025-01-16 17:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Nordre Frihavnsgade 22
+Departure: 2025-01-16 08:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Middelfart -> København
+
+Ride route: Vesterbrogade 6A -> Buen 1
+Departure: 2025-01-14 17:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Vesterbrogade 6A
+Departure: 2025-01-14 08:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Banegårdspladsen 2
+Departure: 2025-01-13 18:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Østerbrogade 70
+Departure: 2025-01-13 08:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Vejle -> København
+
+Ride route: Hellerupvej 12 -> Jernbanegade 8
+Departure: 2025-01-09 20:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Hellerupvej 12
+Departure: 2025-01-09 09:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Kolding -> København
+
+Ride route: Falkoner Allé 20 -> Buen 1
+Departure: 2025-01-07 19:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Falkoner Allé 20
+Departure: 2025-01-07 07:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Kolding -> København
+
+Ride route: Hellerupvej 12 -> Jernbanegade 5
+Departure: 2025-01-06 20:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Hellerupvej 12
+Departure: 2025-01-06 06:30:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Banegårdspladsen 2
+Departure: 2025-01-02 17:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Hellerupvej 12
+Departure: 2025-01-02 06:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Vejle -> København
+
+Ride route: Istedgade 44 -> Brogade 3
+Departure: 2024-12-30 20:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Istedgade 44
+Departure: 2024-12-30 08:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Middelfart -> København
+
+Ride route: Købmagergade 52 -> Brogade 3
+Departure: 2024-12-23 17:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Købmagergade 52
+Departure: 2024-12-23 09:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Middelfart -> København
+
+Ride route: Vesterbrogade 6A -> Nørretorv 1
+Departure: 2024-12-20 20:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Vesterbrogade 6A
+Departure: 2024-12-20 07:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Banegårdspladsen 4
+Departure: 2024-12-19 17:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Nordre Frihavnsgade 22
+Departure: 2024-12-19 08:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Østergade 10
+Departure: 2024-12-17 20:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Gammel Kongevej 80
+Departure: 2024-12-17 09:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Middelfart -> København
+
+Ride route: Toftegårds Allé 8 -> Algade 16
+Departure: 2024-12-16 19:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Toftegårds Allé 8
+Departure: 2024-12-16 09:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Middelfart -> København
+
+Ride route: Gammel Kongevej 80 -> Banegårdspladsen 4
+Departure: 2024-12-13 18:30:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Gammel Kongevej 80
+Departure: 2024-12-13 09:15:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Buen 1
+Departure: 2024-12-11 17:45:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Istedgade 44
+Departure: 2024-12-11 07:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Algade 16
+Departure: 2024-12-09 19:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Bernstorffsgade 16
+Departure: 2024-12-09 08:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Middelfart -> København
+
+Ride route: Rådhuspladsen 1 -> Rendebanen 7
+Departure: 2024-12-06 20:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Rådhuspladsen 1
+Departure: 2024-12-06 06:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Østergade 10
+Departure: 2024-12-05 18:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Toftegårds Allé 8
+Departure: 2024-12-05 08:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Middelfart -> København
+
+Ride route: Gammel Kongevej 80 -> Banegårdspladsen 4
+Departure: 2024-12-03 20:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Gammel Kongevej 80
+Departure: 2024-12-03 08:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Kolding -> København
+
+Ride route: Rådhuspladsen 1 -> Dæmningen 14
+Departure: 2024-12-02 19:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Rådhuspladsen 1
+Departure: 2024-12-02 09:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Buen 1
+Departure: 2024-11-29 20:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Nordre Frihavnsgade 22
+Departure: 2024-11-29 09:45:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Buen 1
+Departure: 2024-11-28 20:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Købmagergade 52
+Departure: 2024-11-28 06:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Rendebanen 7
+Departure: 2024-11-26 19:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Sønder Boulevard 48
+Departure: 2024-11-26 06:45:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Kolding -> København
+
+Ride route: Allégade 10 -> Jernbanegade 5
+Departure: 2024-11-25 17:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Allégade 10
+Departure: 2024-11-25 07:15:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Fredericia -> København
+
+Ride route: Istedgade 44 -> Dæmningen 14
+Departure: 2024-11-22 20:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Istedgade 44
+Departure: 2024-11-22 09:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Vejle -> København
+
+Ride route: Allégade 10 -> Algade 16
+Departure: 2024-11-21 20:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Allégade 10
+Departure: 2024-11-21 09:15:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Middelfart -> København
+
+Ride route: Hellerupvej 12 -> Akseltorv 5
+Departure: 2024-11-20 19:45:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Hellerupvej 12
+Departure: 2024-11-20 06:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Østergade 10
+Departure: 2024-11-19 18:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Sønder Boulevard 48
+Departure: 2024-11-19 09:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Middelfart -> København
+
+Ride route: Vesterbrogade 6A -> Brogade 3
+Departure: 2024-11-18 18:15:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Vesterbrogade 6A
+Departure: 2024-11-18 06:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Middelfart -> København
+
+Ride route: Falkoner Allé 20 -> Jernbanegade 8
+Departure: 2024-11-15 20:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Falkoner Allé 20
+Departure: 2024-11-15 08:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Kolding -> København
+
+Ride route: Strandvejen 203 -> Jernbanegade 5
+Departure: 2024-11-14 18:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Strandvejen 203
+Departure: 2024-11-14 06:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Rendebanen 7
+Departure: 2024-11-13 17:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Allégade 10
+Departure: 2024-11-13 06:00:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Banegårdspladsen 2
+Departure: 2024-11-11 17:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Gammel Kongevej 80
+Departure: 2024-11-11 06:15:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Dæmningen 14
+Departure: 2024-11-08 17:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Toftegårds Allé 8
+Departure: 2024-11-08 06:30:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Vejle -> København
+
+Ride route: Strandvejen 203 -> Dæmningen 14
+Departure: 2024-11-07 18:45:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Strandvejen 203
+Departure: 2024-11-07 06:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Gothersgade 11
+Departure: 2024-11-06 20:30:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Nordre Frihavnsgade 22
+Departure: 2024-11-06 08:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Fredericia -> København
+
+Ride route: Østerbrogade 70 -> Danmarksgade 16
+Departure: 2024-11-04 19:00:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Østerbrogade 70
+Departure: 2024-11-04 08:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Gothersgade 11
+Departure: 2024-11-01 18:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Hellerupvej 12
+Departure: 2024-11-01 08:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Jernbanegade 8
+Departure: 2024-10-31 19:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Allégade 10
+Departure: 2024-10-31 08:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Østergade 10
+Departure: 2024-10-30 17:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Istedgade 44
+Departure: 2024-10-30 06:00:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Middelfart -> København
+
+Ride route: Istedgade 44 -> Dæmningen 14
+Departure: 2024-10-29 20:30:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Istedgade 44
+Departure: 2024-10-29 09:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Vejle -> København
+
+Ride route: Allégade 10 -> Nørretorv 1
+Departure: 2024-10-28 19:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Allégade 10
+Departure: 2024-10-28 08:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Vejle -> København
+
+Ride route: Bernstorffsgade 16 -> Banegårdspladsen 2
+Departure: 2024-10-24 18:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Bernstorffsgade 16
+Departure: 2024-10-24 09:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Vejle -> København
+
+Ride route: Købmagergade 52 -> Dæmningen 14
+Departure: 2024-10-23 17:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Købmagergade 52
+Departure: 2024-10-23 08:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Vejle -> København
+
+Ride route: Sønder Boulevard 48 -> Algade 16
+Departure: 2024-10-22 18:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Sønder Boulevard 48
+Departure: 2024-10-22 07:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Middelfart -> København
+
+Ride route: Istedgade 44 -> Jernbanegade 5
+Departure: 2024-10-21 20:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Istedgade 44
+Departure: 2024-10-21 08:15:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Fredericia -> København
+
+Ride route: Strandvejen 203 -> Banegårdspladsen 4
+Departure: 2024-10-18 20:00:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Strandvejen 203
+Departure: 2024-10-18 06:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Rendebanen 7
+Departure: 2024-10-17 20:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Sønder Boulevard 48
+Departure: 2024-10-17 06:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Banegårdspladsen 2
+Departure: 2024-10-15 18:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Købmagergade 52
+Departure: 2024-10-15 08:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Gothersgade 11
+Departure: 2024-10-14 19:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Toftegårds Allé 8
+Departure: 2024-10-14 07:30:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Banegårdspladsen 2
+Departure: 2024-10-10 20:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Hellerupvej 12
+Departure: 2024-10-10 06:45:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Vejle -> København
+
+Ride route: Allégade 10 -> Brogade 3
+Departure: 2024-10-09 19:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Allégade 10
+Departure: 2024-10-09 08:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Middelfart -> København
+
+Ride route: Falkoner Allé 20 -> Jernbanegade 8
+Departure: 2024-10-08 18:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Falkoner Allé 20
+Departure: 2024-10-08 06:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Jernbanegade 5
+Departure: 2024-10-07 17:30:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Købmagergade 52
+Departure: 2024-10-07 07:30:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Danmarksgade 16
+Departure: 2024-10-04 20:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Hellerupvej 12
+Departure: 2024-10-04 06:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Istedgade 44 -> Jernbanegade 5
+Departure: 2024-10-03 18:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Istedgade 44
+Departure: 2024-10-03 06:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Fredericia -> København
+
+Ride route: Falkoner Allé 20 -> Danmarksgade 16
+Departure: 2024-10-01 20:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Falkoner Allé 20
+Departure: 2024-10-01 07:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Fredericia -> København
+
+Ride route: Gammel Kongevej 80 -> Brogade 3
+Departure: 2024-09-30 19:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Gammel Kongevej 80
+Departure: 2024-09-30 06:30:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Banegårdspladsen 4
+Departure: 2024-09-27 19:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Nordre Frihavnsgade 22
+Departure: 2024-09-27 08:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Rendebanen 7
+Departure: 2024-09-26 20:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Sønder Boulevard 48
+Departure: 2024-09-26 09:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Østergade 10
+Departure: 2024-09-25 17:45:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Sønder Boulevard 48
+Departure: 2024-09-25 09:45:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Middelfart -> København
+
+Ride route: Hellerupvej 12 -> Østergade 10
+Departure: 2024-09-24 18:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Hellerupvej 12
+Departure: 2024-09-24 09:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Rendebanen 7
+Departure: 2024-09-23 20:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Østerbrogade 70
+Departure: 2024-09-23 07:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Østergade 10
+Departure: 2024-09-20 19:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Toftegårds Allé 8
+Departure: 2024-09-20 09:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Middelfart -> København
+
+Ride route: Rådhuspladsen 1 -> Brogade 3
+Departure: 2024-09-19 18:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Rådhuspladsen 1
+Departure: 2024-09-19 09:15:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Middelfart -> København
+
+Ride route: Vesterbrogade 6A -> Banegårdspladsen 4
+Departure: 2024-09-18 20:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Vesterbrogade 6A
+Departure: 2024-09-18 06:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Kolding -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Banegårdspladsen 2
+Departure: 2024-09-17 17:45:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Nordre Frihavnsgade 22
+Departure: 2024-09-17 07:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Vejle -> København
+
+Ride route: Rådhuspladsen 1 -> Gothersgade 11
+Departure: 2024-09-13 19:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Rådhuspladsen 1
+Departure: 2024-09-13 07:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Fredericia -> København
+
+Ride route: Strandvejen 203 -> Jernbanegade 5
+Departure: 2024-09-12 19:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Strandvejen 203
+Departure: 2024-09-12 06:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Rendebanen 7
+Departure: 2024-09-11 17:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Sønder Boulevard 48
+Departure: 2024-09-11 09:45:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Buen 1
+Departure: 2024-09-10 19:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Toftegårds Allé 8
+Departure: 2024-09-10 07:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Banegårdspladsen 4
+Departure: 2024-09-09 20:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Købmagergade 52
+Departure: 2024-09-09 07:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Østergade 10
+Departure: 2024-09-06 19:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Sønder Boulevard 48
+Departure: 2024-09-06 08:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Buen 1
+Departure: 2024-09-04 20:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Østerbrogade 70
+Departure: 2024-09-04 09:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Danmarksgade 16
+Departure: 2024-09-03 18:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Istedgade 44
+Departure: 2024-09-03 09:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Buen 1
+Departure: 2024-09-02 17:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Hellerupvej 12
+Departure: 2024-09-02 07:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Nørretorv 1
+Departure: 2024-08-30 18:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Toftegårds Allé 8
+Departure: 2024-08-30 07:30:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Vejle -> København
+
+Ride route: Vesterbrogade 6A -> Nørretorv 1
+Departure: 2024-08-29 20:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Vesterbrogade 6A
+Departure: 2024-08-29 07:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Vejle -> København
+
+Ride route: Købmagergade 52 -> Buen 1
+Departure: 2024-08-27 18:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Købmagergade 52
+Departure: 2024-08-27 07:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Kolding -> København
+
+Ride route: Vesterbrogade 6A -> Østergade 10
+Departure: 2024-08-26 19:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Vesterbrogade 6A
+Departure: 2024-08-26 07:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Middelfart -> København
+
+Ride route: Allégade 10 -> Dæmningen 14
+Departure: 2024-08-23 18:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Allégade 10
+Departure: 2024-08-23 07:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Banegårdspladsen 4
+Departure: 2024-08-21 17:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Nordre Frihavnsgade 22
+Departure: 2024-08-21 08:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Gothersgade 11
+Departure: 2024-08-20 17:15:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Istedgade 44
+Departure: 2024-08-20 07:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Danmarksgade 16
+Departure: 2024-08-19 18:30:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Hellerupvej 12
+Departure: 2024-08-19 07:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Fredericia -> København
+
+Ride route: Rådhuspladsen 1 -> Østergade 10
+Departure: 2024-08-14 17:45:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Rådhuspladsen 1
+Departure: 2024-08-14 08:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Middelfart -> København
+
+Ride route: Rådhuspladsen 1 -> Brogade 3
+Departure: 2024-08-13 20:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Rådhuspladsen 1
+Departure: 2024-08-13 06:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Middelfart -> København
+
+Ride route: Hellerupvej 12 -> Jernbanegade 5
+Departure: 2024-08-12 20:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Hellerupvej 12
+Departure: 2024-08-12 09:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Fredericia -> København
+
+Ride route: Falkoner Allé 20 -> Jernbanegade 5
+Departure: 2024-08-08 20:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Falkoner Allé 20
+Departure: 2024-08-08 08:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Fredericia -> København
+
+Ride route: Strandvejen 203 -> Danmarksgade 16
+Departure: 2024-08-07 18:00:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Strandvejen 203
+Departure: 2024-08-07 08:15:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Fredericia -> København
+
+Ride route: Valby Langgade 34 -> Gothersgade 11
+Departure: 2024-08-06 17:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Valby Langgade 34
+Departure: 2024-08-06 06:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Danmarksgade 16
+Departure: 2024-08-02 17:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Toftegårds Allé 8
+Departure: 2024-08-02 09:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Fredericia -> København
+
+Ride route: Istedgade 44 -> Buen 1
+Departure: 2024-07-31 19:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Istedgade 44
+Departure: 2024-07-31 07:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Kolding -> København
+
+Ride route: Hellerupvej 12 -> Banegårdspladsen 4
+Departure: 2024-07-30 18:45:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Hellerupvej 12
+Departure: 2024-07-30 09:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Banegårdspladsen 2
+Departure: 2024-07-26 20:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Sønder Boulevard 48
+Departure: 2024-07-26 08:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Vejle -> København
+
+Ride route: Rådhuspladsen 1 -> Jernbanegade 5
+Departure: 2024-07-25 18:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Rådhuspladsen 1
+Departure: 2024-07-25 08:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Danmarksgade 16
+Departure: 2024-07-24 20:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Toftegårds Allé 8
+Departure: 2024-07-24 09:15:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Fredericia -> København
+
+Ride route: Købmagergade 52 -> Brogade 3
+Departure: 2024-07-22 19:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Købmagergade 52
+Departure: 2024-07-22 09:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Middelfart -> København
+
+Ride route: Valby Langgade 34 -> Østergade 10
+Departure: 2024-07-18 19:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Valby Langgade 34
+Departure: 2024-07-18 08:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Nørretorv 1
+Departure: 2024-07-17 18:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Østerbrogade 70
+Departure: 2024-07-17 09:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Akseltorv 5
+Departure: 2024-07-16 20:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Valby Langgade 34
+Departure: 2024-07-16 06:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Akseltorv 5
+Departure: 2024-07-12 17:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Købmagergade 52
+Departure: 2024-07-12 07:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Kolding -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Nørretorv 1
+Departure: 2024-07-11 17:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Nordre Frihavnsgade 22
+Departure: 2024-07-11 08:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Vejle -> København
+
+Ride route: Istedgade 44 -> Nørretorv 1
+Departure: 2024-07-10 19:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Istedgade 44
+Departure: 2024-07-10 06:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Jernbanegade 8
+Departure: 2024-07-08 20:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Toftegårds Allé 8
+Departure: 2024-07-08 09:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Danmarksgade 16
+Departure: 2024-07-05 18:45:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Istedgade 44
+Departure: 2024-07-05 08:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Fredericia -> København
+
+Ride route: Rådhuspladsen 1 -> Banegårdspladsen 4
+Departure: 2024-07-04 19:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Rådhuspladsen 1
+Departure: 2024-07-04 08:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Dæmningen 14
+Departure: 2024-07-02 19:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Købmagergade 52
+Departure: 2024-07-02 08:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Vejle -> København
+
+Ride route: Sønder Boulevard 48 -> Algade 16
+Departure: 2024-06-28 20:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Sønder Boulevard 48
+Departure: 2024-06-28 09:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Middelfart -> København
+
+Ride route: Allégade 10 -> Akseltorv 5
+Departure: 2024-06-27 19:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Allégade 10
+Departure: 2024-06-27 06:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Kolding -> København
+
+Ride route: Valby Langgade 34 -> Brogade 3
+Departure: 2024-06-26 19:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Valby Langgade 34
+Departure: 2024-06-26 08:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Middelfart -> København
+
+Ride route: Valby Langgade 34 -> Østergade 10
+Departure: 2024-06-25 20:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Valby Langgade 34
+Departure: 2024-06-25 07:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Buen 1
+Departure: 2024-06-21 19:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Nordre Frihavnsgade 22
+Departure: 2024-06-21 08:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Brogade 3
+Departure: 2024-06-20 17:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Bernstorffsgade 16
+Departure: 2024-06-20 09:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Middelfart -> København
+
+Ride route: Gammel Kongevej 80 -> Dæmningen 14
+Departure: 2024-06-19 20:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Gammel Kongevej 80
+Departure: 2024-06-19 06:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Vejle -> København
+
+Ride route: Vesterbrogade 6A -> Dæmningen 14
+Departure: 2024-06-18 19:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Vesterbrogade 6A
+Departure: 2024-06-18 09:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Akseltorv 5
+Departure: 2024-06-17 20:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Nordre Frihavnsgade 22
+Departure: 2024-06-17 09:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Brogade 3
+Departure: 2024-06-14 20:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Østerbrogade 70
+Departure: 2024-06-14 09:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Middelfart -> København
+
+Ride route: Allégade 10 -> Banegårdspladsen 4
+Departure: 2024-06-12 18:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Allégade 10
+Departure: 2024-06-12 06:00:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Banegårdspladsen 2
+Departure: 2024-06-11 20:30:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Gammel Kongevej 80
+Departure: 2024-06-11 07:15:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Vejle -> København
+
+Ride route: Rådhuspladsen 1 -> Buen 1
+Departure: 2024-06-07 20:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Rådhuspladsen 1
+Departure: 2024-06-07 08:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Kolding -> København
+
+Ride route: Allégade 10 -> Danmarksgade 16
+Departure: 2024-06-06 18:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Allégade 10
+Departure: 2024-06-06 06:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Fredericia -> København
+
+Ride route: Østerbrogade 70 -> Nørretorv 1
+Departure: 2024-06-04 18:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Østerbrogade 70
+Departure: 2024-06-04 07:45:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Vejle -> København
+
+Ride route: Rådhuspladsen 1 -> Rendebanen 7
+Departure: 2024-06-03 17:15:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Rådhuspladsen 1
+Departure: 2024-06-03 07:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Kolding -> København
+
+Ride route: Valby Langgade 34 -> Jernbanegade 8
+Departure: 2024-05-31 17:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Valby Langgade 34
+Departure: 2024-05-31 08:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Kolding -> København
+
+Ride route: Rådhuspladsen 1 -> Algade 16
+Departure: 2024-05-30 20:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Rådhuspladsen 1
+Departure: 2024-05-30 08:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Middelfart -> København
+
+Ride route: Gammel Kongevej 80 -> Akseltorv 5
+Departure: 2024-05-29 20:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Gammel Kongevej 80
+Departure: 2024-05-29 09:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Valby Langgade 34 -> Brogade 3
+Departure: 2024-05-27 19:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Valby Langgade 34
+Departure: 2024-05-27 07:15:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Gothersgade 11
+Departure: 2024-05-24 18:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Nordre Frihavnsgade 22
+Departure: 2024-05-24 09:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Fredericia -> København
+
+Ride route: Gammel Kongevej 80 -> Gothersgade 11
+Departure: 2024-05-23 17:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Gammel Kongevej 80
+Departure: 2024-05-23 06:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Nørretorv 1
+Departure: 2024-05-22 17:45:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Allégade 10
+Departure: 2024-05-22 09:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Vejle -> København
+
+Ride route: Bernstorffsgade 16 -> Jernbanegade 8
+Departure: 2024-05-21 20:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Bernstorffsgade 16
+Departure: 2024-05-21 07:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Kolding -> København
+
+Ride route: Allégade 10 -> Banegårdspladsen 4
+Departure: 2024-05-17 18:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Allégade 10
+Departure: 2024-05-17 07:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Rendebanen 7
+Departure: 2024-05-16 20:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Istedgade 44
+Departure: 2024-05-16 06:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Akseltorv 5
+Departure: 2024-05-15 18:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Toftegårds Allé 8
+Departure: 2024-05-15 08:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Rendebanen 7
+Departure: 2024-05-14 19:00:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Sønder Boulevard 48
+Departure: 2024-05-14 06:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Jernbanegade 8
+Departure: 2024-05-13 17:30:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Gammel Kongevej 80
+Departure: 2024-05-13 08:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Hellerupvej 12 -> Østergade 10
+Departure: 2024-05-10 17:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Hellerupvej 12
+Departure: 2024-05-10 07:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Middelfart -> København
+
+Ride route: Vesterbrogade 6A -> Rendebanen 7
+Departure: 2024-05-08 17:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Vesterbrogade 6A
+Departure: 2024-05-08 07:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Banegårdspladsen 2
+Departure: 2024-05-07 19:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Bernstorffsgade 16
+Departure: 2024-05-07 09:00:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Brogade 3
+Departure: 2024-05-03 17:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Nordre Frihavnsgade 22
+Departure: 2024-05-03 09:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Jernbanegade 5
+Departure: 2024-05-02 18:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Bernstorffsgade 16
+Departure: 2024-05-02 06:30:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Fredericia -> København
+
+Ride route: Bernstorffsgade 16 -> Brogade 3
+Departure: 2024-05-01 18:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Bernstorffsgade 16
+Departure: 2024-05-01 09:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Jernbanegade 8
+Departure: 2024-04-30 20:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Nordre Frihavnsgade 22
+Departure: 2024-04-30 06:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Kolding -> København
+
+Ride route: Strandvejen 203 -> Dæmningen 14
+Departure: 2024-04-29 18:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Strandvejen 203
+Departure: 2024-04-29 09:30:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Rendebanen 7
+Departure: 2024-04-25 18:30:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Valby Langgade 34
+Departure: 2024-04-25 06:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Kolding -> København
+
+Ride route: Allégade 10 -> Østergade 10
+Departure: 2024-04-24 18:45:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Allégade 10
+Departure: 2024-04-24 09:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Brogade 3
+Departure: 2024-04-23 17:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Østerbrogade 70
+Departure: 2024-04-23 06:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Middelfart -> København
+
+Ride route: Istedgade 44 -> Banegårdspladsen 2
+Departure: 2024-04-22 19:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Istedgade 44
+Departure: 2024-04-22 08:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Vejle -> København
+
+Ride route: Østerbrogade 70 -> Danmarksgade 16
+Departure: 2024-04-19 20:45:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Østerbrogade 70
+Departure: 2024-04-19 08:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Fredericia -> København
+
+Ride route: Bernstorffsgade 16 -> Dæmningen 14
+Departure: 2024-04-18 18:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Bernstorffsgade 16
+Departure: 2024-04-18 06:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Vejle -> København
+
+Ride route: Bernstorffsgade 16 -> Østergade 10
+Departure: 2024-04-17 20:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Bernstorffsgade 16
+Departure: 2024-04-17 09:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Nørretorv 1
+Departure: 2024-04-15 20:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Bernstorffsgade 16
+Departure: 2024-04-15 07:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Jernbanegade 5
+Departure: 2024-04-12 18:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Valby Langgade 34
+Departure: 2024-04-12 06:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Brogade 3
+Departure: 2024-04-11 17:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Allégade 10
+Departure: 2024-04-11 06:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Middelfart -> København
+
+Ride route: Købmagergade 52 -> Buen 1
+Departure: 2024-04-10 17:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Købmagergade 52
+Departure: 2024-04-10 07:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Akseltorv 5
+Departure: 2024-04-09 19:00:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Bernstorffsgade 16
+Departure: 2024-04-09 09:30:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Kolding -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Banegårdspladsen 2
+Departure: 2024-04-08 19:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Nordre Frihavnsgade 22
+Departure: 2024-04-08 07:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Vejle -> København
+
+Ride route: Hellerupvej 12 -> Brogade 3
+Departure: 2024-04-05 18:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Hellerupvej 12
+Departure: 2024-04-05 08:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Middelfart -> København
+
+Ride route: Allégade 10 -> Jernbanegade 8
+Departure: 2024-04-03 18:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Allégade 10
+Departure: 2024-04-03 07:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Kolding -> København
+
+Ride route: Strandvejen 203 -> Jernbanegade 5
+Departure: 2024-04-02 17:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Strandvejen 203
+Departure: 2024-04-02 07:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Fredericia -> København
+
+Ride route: Falkoner Allé 20 -> Algade 16
+Departure: 2024-03-27 17:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Falkoner Allé 20
+Departure: 2024-03-27 07:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Østergade 10
+Departure: 2024-03-26 20:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Bernstorffsgade 16
+Departure: 2024-03-26 07:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Nørretorv 1
+Departure: 2024-03-25 18:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Bernstorffsgade 16
+Departure: 2024-03-25 07:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Vejle -> København
+
+Ride route: Allégade 10 -> Jernbanegade 5
+Departure: 2024-03-22 17:00:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Allégade 10
+Departure: 2024-03-22 07:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Fredericia -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Algade 16
+Departure: 2024-03-20 19:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Nordre Frihavnsgade 22
+Departure: 2024-03-20 07:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Middelfart -> København
+
+Ride route: Falkoner Allé 20 -> Østergade 10
+Departure: 2024-03-18 19:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Falkoner Allé 20
+Departure: 2024-03-18 07:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Jernbanegade 5
+Departure: 2024-03-15 18:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Nordre Frihavnsgade 22
+Departure: 2024-03-15 09:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Banegårdspladsen 4
+Departure: 2024-03-14 17:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Hellerupvej 12
+Departure: 2024-03-14 07:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Algade 16
+Departure: 2024-03-13 18:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Istedgade 44
+Departure: 2024-03-13 07:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Middelfart -> København
+
+Ride route: Toftegårds Allé 8 -> Algade 16
+Departure: 2024-03-12 17:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Toftegårds Allé 8
+Departure: 2024-03-12 07:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Østergade 10
+Departure: 2024-03-08 18:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Bernstorffsgade 16
+Departure: 2024-03-08 09:00:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Østergade 10
+Departure: 2024-03-07 19:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Bernstorffsgade 16
+Departure: 2024-03-07 06:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Middelfart -> København
+
+Ride route: Istedgade 44 -> Gothersgade 11
+Departure: 2024-03-06 17:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Istedgade 44
+Departure: 2024-03-06 09:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Dæmningen 14
+Departure: 2024-03-05 20:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Sønder Boulevard 48
+Departure: 2024-03-05 08:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Vejle -> København
+
+Ride route: Istedgade 44 -> Banegårdspladsen 4
+Departure: 2024-03-01 20:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Istedgade 44
+Departure: 2024-03-01 09:15:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Dæmningen 14
+Departure: 2024-02-29 18:30:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Gammel Kongevej 80
+Departure: 2024-02-29 06:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Vejle -> København
+
+Ride route: Allégade 10 -> Banegårdspladsen 4
+Departure: 2024-02-27 18:45:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Allégade 10
+Departure: 2024-02-27 06:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Nørretorv 1
+Departure: 2024-02-26 18:30:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Østerbrogade 70
+Departure: 2024-02-26 09:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Vejle -> København
+
+Ride route: Falkoner Allé 20 -> Jernbanegade 8
+Departure: 2024-02-23 18:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Falkoner Allé 20
+Departure: 2024-02-23 06:30:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Falkoner Allé 20 -> Østergade 10
+Departure: 2024-02-21 17:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Falkoner Allé 20
+Departure: 2024-02-21 06:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Middelfart -> København
+
+Ride route: Allégade 10 -> Jernbanegade 5
+Departure: 2024-02-20 19:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Allégade 10
+Departure: 2024-02-20 07:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Østergade 10
+Departure: 2024-02-19 20:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Allégade 10
+Departure: 2024-02-19 06:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Middelfart -> København
+
+Ride route: Sønder Boulevard 48 -> Algade 16
+Departure: 2024-02-16 17:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Sønder Boulevard 48
+Departure: 2024-02-16 09:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Middelfart -> København
+
+Ride route: Sønder Boulevard 48 -> Jernbanegade 8
+Departure: 2024-02-14 19:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Sønder Boulevard 48
+Departure: 2024-02-14 07:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Kolding -> København
+
+Ride route: Hellerupvej 12 -> Akseltorv 5
+Departure: 2024-02-12 19:30:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Hellerupvej 12
+Departure: 2024-02-12 09:15:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Østergade 10
+Departure: 2024-02-09 19:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Istedgade 44
+Departure: 2024-02-09 08:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Buen 1
+Departure: 2024-02-08 18:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Bernstorffsgade 16
+Departure: 2024-02-08 09:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Rendebanen 7
+Departure: 2024-02-07 20:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Sønder Boulevard 48
+Departure: 2024-02-07 09:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Kolding -> København
+
+Ride route: Rådhuspladsen 1 -> Østergade 10
+Departure: 2024-02-05 18:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Rådhuspladsen 1
+Departure: 2024-02-05 06:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Danmarksgade 16
+Departure: 2024-02-02 20:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Nordre Frihavnsgade 22
+Departure: 2024-02-02 08:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Fredericia -> København
+
+Ride route: Valby Langgade 34 -> Rendebanen 7
+Departure: 2024-02-01 18:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Valby Langgade 34
+Departure: 2024-02-01 07:00:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Kolding -> København
+
+Ride route: Valby Langgade 34 -> Akseltorv 5
+Departure: 2024-01-31 19:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Valby Langgade 34
+Departure: 2024-01-31 06:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Kolding -> København
+
+Ride route: Strandvejen 203 -> Nørretorv 1
+Departure: 2024-01-29 19:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Strandvejen 203
+Departure: 2024-01-29 06:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Akseltorv 5
+Departure: 2024-01-26 18:00:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Toftegårds Allé 8
+Departure: 2024-01-26 09:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Kolding -> København
+
+Ride route: Valby Langgade 34 -> Rendebanen 7
+Departure: 2024-01-25 17:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Valby Langgade 34
+Departure: 2024-01-25 06:15:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Strandvejen 203 -> Danmarksgade 16
+Departure: 2024-01-24 18:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Strandvejen 203
+Departure: 2024-01-24 09:30:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Fredericia -> København
+
+Ride route: Vesterbrogade 6A -> Algade 16
+Departure: 2024-01-22 19:45:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Vesterbrogade 6A
+Departure: 2024-01-22 08:45:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Akseltorv 5
+Departure: 2024-01-19 17:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Nordre Frihavnsgade 22
+Departure: 2024-01-19 07:30:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Banegårdspladsen 2
+Departure: 2024-01-17 20:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Gammel Kongevej 80
+Departure: 2024-01-17 08:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Algade 16
+Departure: 2024-01-16 20:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Toftegårds Allé 8
+Departure: 2024-01-16 08:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Middelfart -> København
+
+Ride route: Sønder Boulevard 48 -> Østergade 10
+Departure: 2024-01-15 17:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Sønder Boulevard 48
+Departure: 2024-01-15 07:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Rendebanen 7
+Departure: 2024-01-12 17:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Bernstorffsgade 16
+Departure: 2024-01-12 06:30:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Jernbanegade 8
+Departure: 2024-01-11 19:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Toftegårds Allé 8
+Departure: 2024-01-11 07:30:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Kolding -> København
+
+Ride route: Vesterbrogade 6A -> Banegårdspladsen 4
+Departure: 2024-01-09 17:30:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Vesterbrogade 6A
+Departure: 2024-01-09 06:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Nørretorv 1
+Departure: 2024-01-08 17:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Østerbrogade 70
+Departure: 2024-01-08 07:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Vejle -> København
+
+Ride route: Strandvejen 203 -> Dæmningen 14
+Departure: 2024-01-05 18:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Strandvejen 203
+Departure: 2024-01-05 07:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Danmarksgade 16
+Departure: 2024-01-04 18:45:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Valby Langgade 34
+Departure: 2024-01-04 07:30:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Buen 1
+Departure: 2024-01-02 18:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Toftegårds Allé 8
+Departure: 2024-01-02 08:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Jernbanegade 8
+Departure: 2023-12-29 17:45:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Bernstorffsgade 16
+Departure: 2023-12-29 07:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Kolding -> København
+
+Ride route: Strandvejen 203 -> Algade 16
+Departure: 2023-12-28 17:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Strandvejen 203
+Departure: 2023-12-28 06:15:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Middelfart -> København
+
+Ride route: Sønder Boulevard 48 -> Nørretorv 1
+Departure: 2023-12-27 17:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Sønder Boulevard 48
+Departure: 2023-12-27 07:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Vejle -> København
+
+Ride route: Vesterbrogade 6A -> Jernbanegade 5
+Departure: 2023-12-22 20:15:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Vesterbrogade 6A
+Departure: 2023-12-22 06:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Østergade 10
+Departure: 2023-12-21 18:45:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Nordre Frihavnsgade 22
+Departure: 2023-12-21 06:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Middelfart -> København
+
+Ride route: Valby Langgade 34 -> Akseltorv 5
+Departure: 2023-12-20 17:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Valby Langgade 34
+Departure: 2023-12-20 08:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Kolding -> København
+
+Ride route: Rådhuspladsen 1 -> Algade 16
+Departure: 2023-12-19 17:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Rådhuspladsen 1
+Departure: 2023-12-19 06:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Middelfart -> København
+
+Ride route: Valby Langgade 34 -> Brogade 3
+Departure: 2023-12-18 20:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Valby Langgade 34
+Departure: 2023-12-18 09:45:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Middelfart -> København
+
+Ride route: Købmagergade 52 -> Gothersgade 11
+Departure: 2023-12-15 17:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Købmagergade 52
+Departure: 2023-12-15 09:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Gothersgade 11
+Departure: 2023-12-14 20:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Hellerupvej 12
+Departure: 2023-12-14 06:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Buen 1
+Departure: 2023-12-13 18:00:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Sønder Boulevard 48
+Departure: 2023-12-13 06:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Østergade 10
+Departure: 2023-12-12 20:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Sønder Boulevard 48
+Departure: 2023-12-12 08:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Middelfart -> København
+
+Ride route: Istedgade 44 -> Buen 1
+Departure: 2023-12-11 20:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Istedgade 44
+Departure: 2023-12-11 09:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Jernbanegade 5
+Departure: 2023-12-08 20:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Østerbrogade 70
+Departure: 2023-12-08 07:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Banegårdspladsen 2
+Departure: 2023-12-07 20:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Sønder Boulevard 48
+Departure: 2023-12-07 08:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Dæmningen 14
+Departure: 2023-12-06 20:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Toftegårds Allé 8
+Departure: 2023-12-06 09:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Banegårdspladsen 4
+Departure: 2023-12-05 19:45:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Nordre Frihavnsgade 22
+Departure: 2023-12-05 07:30:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Kolding -> København
+
+Ride route: Vesterbrogade 6A -> Buen 1
+Departure: 2023-12-04 20:45:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Vesterbrogade 6A
+Departure: 2023-12-04 09:45:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Kolding -> København
+
+Ride route: Hellerupvej 12 -> Dæmningen 14
+Departure: 2023-12-01 20:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Hellerupvej 12
+Departure: 2023-12-01 08:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Vejle -> København
+
+Ride route: Købmagergade 52 -> Jernbanegade 5
+Departure: 2023-11-30 17:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Købmagergade 52
+Departure: 2023-11-30 08:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Fredericia -> København
+
+Ride route: Istedgade 44 -> Rendebanen 7
+Departure: 2023-11-29 20:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Istedgade 44
+Departure: 2023-11-29 06:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Kolding -> København
+
+Ride route: Hellerupvej 12 -> Nørretorv 1
+Departure: 2023-11-28 18:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Hellerupvej 12
+Departure: 2023-11-28 09:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Vejle -> København
+
+Ride route: Sønder Boulevard 48 -> Buen 1
+Departure: 2023-11-27 18:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Sønder Boulevard 48
+Departure: 2023-11-27 07:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Østergade 10
+Departure: 2023-11-24 17:45:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Købmagergade 52
+Departure: 2023-11-24 07:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Nørretorv 1
+Departure: 2023-11-23 18:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Bernstorffsgade 16
+Departure: 2023-11-23 07:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Dæmningen 14
+Departure: 2023-11-22 19:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Toftegårds Allé 8
+Departure: 2023-11-22 08:45:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Vejle -> København
+
+Ride route: Østerbrogade 70 -> Brogade 3
+Departure: 2023-11-21 18:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Østerbrogade 70
+Departure: 2023-11-21 06:00:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Middelfart -> København
+
+Ride route: Allégade 10 -> Buen 1
+Departure: 2023-11-20 17:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Allégade 10
+Departure: 2023-11-20 09:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Kolding -> København
+
+Ride route: Allégade 10 -> Gothersgade 11
+Departure: 2023-11-17 19:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Allégade 10
+Departure: 2023-11-17 06:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Nørretorv 1
+Departure: 2023-11-16 17:30:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Allégade 10
+Departure: 2023-11-16 08:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Vejle -> København
+
+Ride route: Strandvejen 203 -> Danmarksgade 16
+Departure: 2023-11-15 20:00:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Strandvejen 203
+Departure: 2023-11-15 09:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Falkoner Allé 20 -> Algade 16
+Departure: 2023-11-14 20:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Falkoner Allé 20
+Departure: 2023-11-14 06:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Brogade 3
+Departure: 2023-11-13 18:30:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Nordre Frihavnsgade 22
+Departure: 2023-11-13 06:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Akseltorv 5
+Departure: 2023-11-10 20:45:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Østerbrogade 70
+Departure: 2023-11-10 09:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Buen 1
+Departure: 2023-11-09 18:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Bernstorffsgade 16
+Departure: 2023-11-09 09:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Banegårdspladsen 4
+Departure: 2023-11-08 17:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Sønder Boulevard 48
+Departure: 2023-11-08 08:45:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Kolding -> København
+
+Ride route: Valby Langgade 34 -> Algade 16
+Departure: 2023-11-07 17:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Valby Langgade 34
+Departure: 2023-11-07 07:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Middelfart -> København
+
+Ride route: Sønder Boulevard 48 -> Danmarksgade 16
+Departure: 2023-11-06 17:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Sønder Boulevard 48
+Departure: 2023-11-06 08:00:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Fredericia -> København
+
+Ride route: Gammel Kongevej 80 -> Danmarksgade 16
+Departure: 2023-11-03 17:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Gammel Kongevej 80
+Departure: 2023-11-03 09:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Akseltorv 5
+Departure: 2023-11-02 20:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Toftegårds Allé 8
+Departure: 2023-11-02 07:45:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Østergade 10
+Departure: 2023-11-01 20:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Sønder Boulevard 48
+Departure: 2023-11-01 09:30:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Middelfart -> København
+
+Ride route: Falkoner Allé 20 -> Danmarksgade 16
+Departure: 2023-10-31 17:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Falkoner Allé 20
+Departure: 2023-10-31 06:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Jernbanegade 8
+Departure: 2023-10-30 20:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Hellerupvej 12
+Departure: 2023-10-30 09:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Østergade 10
+Departure: 2023-10-27 20:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Gammel Kongevej 80
+Departure: 2023-10-27 09:15:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Middelfart -> København
+
+Ride route: Toftegårds Allé 8 -> Brogade 3
+Departure: 2023-10-26 19:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Toftegårds Allé 8
+Departure: 2023-10-26 08:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Middelfart -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Brogade 3
+Departure: 2023-10-25 17:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Nordre Frihavnsgade 22
+Departure: 2023-10-25 09:00:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Middelfart -> København
+
+Ride route: Valby Langgade 34 -> Banegårdspladsen 4
+Departure: 2023-10-24 20:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Valby Langgade 34
+Departure: 2023-10-24 09:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Jernbanegade 8
+Departure: 2023-10-23 18:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Nordre Frihavnsgade 22
+Departure: 2023-10-23 07:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Kolding -> København
+
+Ride route: Vesterbrogade 6A -> Buen 1
+Departure: 2023-10-20 17:30:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Vesterbrogade 6A
+Departure: 2023-10-20 07:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Banegårdspladsen 2
+Departure: 2023-10-19 19:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Bernstorffsgade 16
+Departure: 2023-10-19 07:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Vejle -> København
+
+Ride route: Hellerupvej 12 -> Akseltorv 5
+Departure: 2023-10-18 20:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Hellerupvej 12
+Departure: 2023-10-18 09:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Dæmningen 14
+Departure: 2023-10-17 20:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Bernstorffsgade 16
+Departure: 2023-10-17 08:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Vejle -> København
+
+Ride route: Østerbrogade 70 -> Banegårdspladsen 2
+Departure: 2023-10-16 18:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Østerbrogade 70
+Departure: 2023-10-16 07:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Vejle -> København
+
+Ride route: Allégade 10 -> Akseltorv 5
+Departure: 2023-10-13 19:00:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Allégade 10
+Departure: 2023-10-13 06:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Kolding -> København
+
+Ride route: Hellerupvej 12 -> Algade 16
+Departure: 2023-10-12 19:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Hellerupvej 12
+Departure: 2023-10-12 08:15:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Middelfart -> København
+
+Ride route: Rådhuspladsen 1 -> Danmarksgade 16
+Departure: 2023-10-11 19:00:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Rådhuspladsen 1
+Departure: 2023-10-11 07:00:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Rendebanen 7
+Departure: 2023-10-10 20:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Allégade 10
+Departure: 2023-10-10 06:15:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Banegårdspladsen 4
+Departure: 2023-10-09 19:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Østerbrogade 70
+Departure: 2023-10-09 06:15:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Kolding -> København
+
+Ride route: Sønder Boulevard 48 -> Jernbanegade 5
+Departure: 2023-10-06 19:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Sønder Boulevard 48
+Departure: 2023-10-06 07:00:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Fredericia -> København
+
+Ride route: Gammel Kongevej 80 -> Jernbanegade 5
+Departure: 2023-10-05 17:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Gammel Kongevej 80
+Departure: 2023-10-05 07:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Banegårdspladsen 2
+Departure: 2023-10-04 18:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Hellerupvej 12
+Departure: 2023-10-04 09:45:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Vejle -> København
+
+Ride route: Østerbrogade 70 -> Jernbanegade 8
+Departure: 2023-10-03 17:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Østerbrogade 70
+Departure: 2023-10-03 06:15:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Jernbanegade 5
+Departure: 2023-10-02 18:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Toftegårds Allé 8
+Departure: 2023-10-02 09:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Rådhuspladsen 1 -> Østergade 10
+Departure: 2023-09-29 18:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Rådhuspladsen 1
+Departure: 2023-09-29 07:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Middelfart -> København
+
+Ride route: Sønder Boulevard 48 -> Banegårdspladsen 2
+Departure: 2023-09-28 17:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Sønder Boulevard 48
+Departure: 2023-09-28 07:00:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Vejle -> København
+
+Ride route: Sønder Boulevard 48 -> Gothersgade 11
+Departure: 2023-09-27 19:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Sønder Boulevard 48
+Departure: 2023-09-27 09:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Fredericia -> København
+
+Ride route: Istedgade 44 -> Algade 16
+Departure: 2023-09-26 18:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Istedgade 44
+Departure: 2023-09-26 08:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Middelfart -> København
+
+Ride route: Strandvejen 203 -> Gothersgade 11
+Departure: 2023-09-25 17:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Strandvejen 203
+Departure: 2023-09-25 09:45:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Østergade 10
+Departure: 2023-09-22 18:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Hellerupvej 12
+Departure: 2023-09-22 06:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Middelfart -> København
+
+Ride route: Rådhuspladsen 1 -> Jernbanegade 5
+Departure: 2023-09-21 20:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Rådhuspladsen 1
+Departure: 2023-09-21 08:30:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Jernbanegade 5
+Departure: 2023-09-20 18:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Toftegårds Allé 8
+Departure: 2023-09-20 07:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Fredericia -> København
+
+Ride route: Købmagergade 52 -> Brogade 3
+Departure: 2023-09-19 19:45:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Købmagergade 52
+Departure: 2023-09-19 08:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Middelfart -> København
+
+Ride route: Sønder Boulevard 48 -> Algade 16
+Departure: 2023-09-18 18:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Sønder Boulevard 48
+Departure: 2023-09-18 08:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Middelfart -> København
+
+Ride route: Gammel Kongevej 80 -> Dæmningen 14
+Departure: 2023-09-15 18:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Gammel Kongevej 80
+Departure: 2023-09-15 07:45:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Vejle -> København
+
+Ride route: Bernstorffsgade 16 -> Nørretorv 1
+Departure: 2023-09-14 17:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Bernstorffsgade 16
+Departure: 2023-09-14 07:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Vejle -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Dæmningen 14
+Departure: 2023-09-13 17:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Nordre Frihavnsgade 22
+Departure: 2023-09-13 07:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Jernbanegade 5
+Departure: 2023-09-12 19:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Valby Langgade 34
+Departure: 2023-09-12 09:30:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Fredericia -> København
+
+Ride route: Købmagergade 52 -> Danmarksgade 16
+Departure: 2023-09-11 20:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Købmagergade 52
+Departure: 2023-09-11 07:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Fredericia -> København
+
+Ride route: Rådhuspladsen 1 -> Brogade 3
+Departure: 2023-09-08 19:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Rådhuspladsen 1
+Departure: 2023-09-08 08:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Middelfart -> København
+
+Ride route: Vesterbrogade 6A -> Rendebanen 7
+Departure: 2023-09-07 19:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Vesterbrogade 6A
+Departure: 2023-09-07 06:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Danmarksgade 16
+Departure: 2023-09-06 18:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Gammel Kongevej 80
+Departure: 2023-09-06 09:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Gammel Kongevej 80 -> Gothersgade 11
+Departure: 2023-09-05 18:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Gammel Kongevej 80
+Departure: 2023-09-05 06:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Fredericia -> København
+
+Ride route: Vesterbrogade 6A -> Østergade 10
+Departure: 2023-09-04 20:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Vesterbrogade 6A
+Departure: 2023-09-04 08:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Middelfart -> København
+
+Ride route: Rådhuspladsen 1 -> Jernbanegade 8
+Departure: 2023-09-01 18:00:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Rådhuspladsen 1
+Departure: 2023-09-01 08:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Kolding -> København
+
+Ride route: Strandvejen 203 -> Gothersgade 11
+Departure: 2023-08-31 20:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Strandvejen 203
+Departure: 2023-08-31 09:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Akseltorv 5
+Departure: 2023-08-30 19:15:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Sønder Boulevard 48
+Departure: 2023-08-30 08:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Kolding -> København
+
+Ride route: Valby Langgade 34 -> Dæmningen 14
+Departure: 2023-08-29 19:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Valby Langgade 34
+Departure: 2023-08-29 09:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Banegårdspladsen 2
+Departure: 2023-08-28 17:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Toftegårds Allé 8
+Departure: 2023-08-28 07:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Vejle -> København
+
+Ride route: Falkoner Allé 20 -> Danmarksgade 16
+Departure: 2023-08-25 19:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Falkoner Allé 20
+Departure: 2023-08-25 09:00:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Gothersgade 11
+Departure: 2023-08-24 17:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Hellerupvej 12
+Departure: 2023-08-24 08:30:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Rådhuspladsen 1 -> Buen 1
+Departure: 2023-08-23 17:45:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Rådhuspladsen 1
+Departure: 2023-08-23 07:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Buen 1
+Departure: 2023-08-22 18:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Toftegårds Allé 8
+Departure: 2023-08-22 08:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Kolding -> København
+
+Ride route: Strandvejen 203 -> Banegårdspladsen 2
+Departure: 2023-08-21 18:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Strandvejen 203
+Departure: 2023-08-21 07:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Nørretorv 1
+Departure: 2023-08-18 19:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Toftegårds Allé 8
+Departure: 2023-08-18 08:00:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Vejle -> København
+
+Ride route: Allégade 10 -> Jernbanegade 5
+Departure: 2023-08-17 18:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Allégade 10
+Departure: 2023-08-17 07:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Fredericia -> København
+
+Ride route: Falkoner Allé 20 -> Jernbanegade 5
+Departure: 2023-08-16 17:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Falkoner Allé 20
+Departure: 2023-08-16 08:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Fredericia -> København
+
+Ride route: Østerbrogade 70 -> Jernbanegade 5
+Departure: 2023-08-15 20:15:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Østerbrogade 70
+Departure: 2023-08-15 07:45:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Brogade 3
+Departure: 2023-08-14 18:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Toftegårds Allé 8
+Departure: 2023-08-14 08:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Middelfart -> København
+
+Ride route: Bernstorffsgade 16 -> Danmarksgade 16
+Departure: 2023-08-11 20:30:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Bernstorffsgade 16
+Departure: 2023-08-11 06:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Fredericia -> København
+
+Ride route: Gammel Kongevej 80 -> Danmarksgade 16
+Departure: 2023-08-10 20:45:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Gammel Kongevej 80
+Departure: 2023-08-10 08:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Fredericia -> København
+
+Ride route: Valby Langgade 34 -> Danmarksgade 16
+Departure: 2023-08-09 20:30:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Valby Langgade 34
+Departure: 2023-08-09 09:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Fredericia -> København
+
+Ride route: Vesterbrogade 6A -> Gothersgade 11
+Departure: 2023-08-08 18:00:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Vesterbrogade 6A
+Departure: 2023-08-08 08:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Fredericia -> København
+
+Ride route: Rådhuspladsen 1 -> Danmarksgade 16
+Departure: 2023-08-07 20:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Rådhuspladsen 1
+Departure: 2023-08-07 07:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Fredericia -> København
+
+Ride route: Købmagergade 52 -> Buen 1
+Departure: 2023-08-04 20:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Købmagergade 52
+Departure: 2023-08-04 09:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Banegårdspladsen 4
+Departure: 2023-08-03 18:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Bernstorffsgade 16
+Departure: 2023-08-03 06:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Algade 16
+Departure: 2023-08-02 17:30:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Østerbrogade 70
+Departure: 2023-08-02 07:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Middelfart -> København
+
+Ride route: Gammel Kongevej 80 -> Danmarksgade 16
+Departure: 2023-08-01 19:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Gammel Kongevej 80
+Departure: 2023-08-01 09:45:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: Fredericia -> København
+
+Ride route: Istedgade 44 -> Buen 1
+Departure: 2023-07-31 19:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Istedgade 44
+Departure: 2023-07-31 07:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Vesterbrogade 6A -> Brogade 3
+Departure: 2023-07-28 17:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Vesterbrogade 6A
+Departure: 2023-07-28 06:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Middelfart -> København
+
+Ride route: Vesterbrogade 6A -> Banegårdspladsen 4
+Departure: 2023-07-27 20:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Vesterbrogade 6A
+Departure: 2023-07-27 09:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Dæmningen 14
+Departure: 2023-07-26 18:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Bernstorffsgade 16
+Departure: 2023-07-26 06:30:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Gothersgade 11
+Departure: 2023-07-25 17:45:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Valby Langgade 34
+Departure: 2023-07-25 06:45:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Banegårdspladsen 4
+Departure: 2023-07-24 17:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Toftegårds Allé 8
+Departure: 2023-07-24 08:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: Kolding -> København
+
+Ride route: Vesterbrogade 6A -> Banegårdspladsen 4
+Departure: 2023-07-21 18:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Vesterbrogade 6A
+Departure: 2023-07-21 09:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Buen 1
+Departure: 2023-07-20 19:45:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Købmagergade 52
+Departure: 2023-07-20 08:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Danmarksgade 16
+Departure: 2023-07-19 17:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Gammel Kongevej 80
+Departure: 2023-07-19 07:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Fredericia -> København
+
+Ride route: Østerbrogade 70 -> Dæmningen 14
+Departure: 2023-07-18 18:30:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Østerbrogade 70
+Departure: 2023-07-18 08:00:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Vejle -> København
+
+Ride route: Vesterbrogade 6A -> Dæmningen 14
+Departure: 2023-07-17 19:15:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 175
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Vesterbrogade 6A
+Departure: 2023-07-17 09:45:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: Vejle -> København
+
+Ride route: Hellerupvej 12 -> Dæmningen 14
+Departure: 2023-07-14 19:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Hellerupvej 12
+Departure: 2023-07-14 06:30:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Vejle -> København
+
+Ride route: Rådhuspladsen 1 -> Banegårdspladsen 2
+Departure: 2023-07-13 18:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Rådhuspladsen 1
+Departure: 2023-07-13 09:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Vejle -> København
+
+Ride route: Sønder Boulevard 48 -> Nørretorv 1
+Departure: 2023-07-12 20:15:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Sønder Boulevard 48
+Departure: 2023-07-12 07:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 260
+Route: Vejle -> København
+
+Ride route: Købmagergade 52 -> Danmarksgade 16
+Departure: 2023-07-11 19:30:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Købmagergade 52
+Departure: 2023-07-11 07:15:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Fredericia -> København
+
+Ride route: Hellerupvej 12 -> Rendebanen 7
+Departure: 2023-07-10 17:15:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Hellerupvej 12
+Departure: 2023-07-10 09:30:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Brogade 3
+Departure: 2023-07-07 18:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Bernstorffsgade 16
+Departure: 2023-07-07 09:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Middelfart -> København
+
+Ride route: Rådhuspladsen 1 -> Buen 1
+Departure: 2023-07-06 18:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Rådhuspladsen 1
+Departure: 2023-07-06 06:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Kolding -> København
+
+Ride route: Valby Langgade 34 -> Banegårdspladsen 2
+Departure: 2023-07-05 18:15:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Valby Langgade 34
+Departure: 2023-07-05 07:15:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Vejle -> København
+
+Ride route: Sønder Boulevard 48 -> Algade 16
+Departure: 2023-07-04 17:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Sønder Boulevard 48
+Departure: 2023-07-04 09:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Middelfart -> København
+
+Ride route: Købmagergade 52 -> Jernbanegade 5
+Departure: 2023-07-03 17:45:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Købmagergade 52
+Departure: 2023-07-03 09:15:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: Fredericia -> København
+
+Ride route: Rådhuspladsen 1 -> Banegårdspladsen 4
+Departure: 2023-06-30 17:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Rådhuspladsen 1
+Departure: 2023-06-30 07:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Kolding -> København
+
+Ride route: Falkoner Allé 20 -> Banegårdspladsen 2
+Departure: 2023-06-29 17:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Falkoner Allé 20
+Departure: 2023-06-29 09:30:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Vejle -> København
+
+Ride route: Bernstorffsgade 16 -> Østergade 10
+Departure: 2023-06-28 17:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Bernstorffsgade 16
+Departure: 2023-06-28 09:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: Middelfart -> København
+
+Ride route: Købmagergade 52 -> Jernbanegade 5
+Departure: 2023-06-27 20:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Købmagergade 52
+Departure: 2023-06-27 09:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Rendebanen 7
+Departure: 2023-06-26 18:45:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Sønder Boulevard 48
+Departure: 2023-06-26 07:15:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Nørretorv 1
+Departure: 2023-06-23 18:00:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Istedgade 44
+Departure: 2023-06-23 09:45:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Danmarksgade 16
+Departure: 2023-06-22 19:45:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Valby Langgade 34
+Departure: 2023-06-22 09:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Jernbanegade 8
+Departure: 2023-06-21 17:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Allégade 10
+Departure: 2023-06-21 07:00:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Kolding -> København
+
+Ride route: Rådhuspladsen 1 -> Danmarksgade 16
+Departure: 2023-06-20 17:30:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Rådhuspladsen 1
+Departure: 2023-06-20 06:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Fredericia -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Nørretorv 1
+Departure: 2023-06-19 17:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Nordre Frihavnsgade 22
+Departure: 2023-06-19 06:00:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Vejle -> København
+
+Ride route: Købmagergade 52 -> Nørretorv 1
+Departure: 2023-06-16 19:45:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Købmagergade 52
+Departure: 2023-06-16 06:45:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Danmarksgade 16
+Departure: 2023-06-15 17:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Valby Langgade 34
+Departure: 2023-06-15 08:15:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Rendebanen 7
+Departure: 2023-06-14 17:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Kolding
+
+Ride route: Rendebanen 7 -> Sønder Boulevard 48
+Departure: 2023-06-14 09:45:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Kolding -> København
+
+Ride route: Falkoner Allé 20 -> Banegårdspladsen 4
+Departure: 2023-06-13 19:45:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Kolding
+
+Ride route: Banegårdspladsen 4 -> Falkoner Allé 20
+Departure: 2023-06-13 09:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Kolding -> København
+
+Ride route: Østerbrogade 70 -> Jernbanegade 8
+Departure: 2023-06-12 20:45:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Kolding
+
+Ride route: Jernbanegade 8 -> Østerbrogade 70
+Departure: 2023-06-12 06:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Brogade 3
+Departure: 2023-06-09 20:45:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Istedgade 44
+Departure: 2023-06-09 08:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Dæmningen 14
+Departure: 2023-06-08 20:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: København -> Vejle
+
+Ride route: Dæmningen 14 -> Østerbrogade 70
+Departure: 2023-06-08 09:30:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: Vejle -> København
+
+Ride route: Toftegårds Allé 8 -> Buen 1
+Departure: 2023-06-07 20:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Toftegårds Allé 8
+Departure: 2023-06-07 07:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Kolding -> København
+
+Ride route: Købmagergade 52 -> Akseltorv 5
+Departure: 2023-06-06 19:15:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Købmagergade 52
+Departure: 2023-06-06 08:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: Kolding -> København
+
+Ride route: Toftegårds Allé 8 -> Danmarksgade 16
+Departure: 2023-06-02 18:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 195
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Toftegårds Allé 8
+Departure: 2023-06-02 07:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Fredericia -> København
+
+Ride route: Gammel Kongevej 80 -> Nørretorv 1
+Departure: 2023-06-01 20:30:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Gammel Kongevej 80
+Departure: 2023-06-01 08:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Vejle -> København
+
+Ride route: Vesterbrogade 6A -> Banegårdspladsen 2
+Departure: 2023-05-31 20:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 140
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Vesterbrogade 6A
+Departure: 2023-05-31 06:45:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Vejle -> København
+
+Ride route: Rådhuspladsen 1 -> Nørretorv 1
+Departure: 2023-05-30 18:00:00
+Driver: Magnus
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Rådhuspladsen 1
+Departure: 2023-05-30 09:30:00
+Driver: Sara
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: Vejle -> København
+
+Ride route: Købmagergade 52 -> Østergade 10
+Departure: 2023-05-26 18:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 145
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Købmagergade 52
+Departure: 2023-05-26 09:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Middelfart -> København
+
+Ride route: Toftegårds Allé 8 -> Danmarksgade 16
+Departure: 2023-05-25 17:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 150
+Route: København -> Fredericia
+
+Ride route: Danmarksgade 16 -> Toftegårds Allé 8
+Departure: 2023-05-25 06:30:00
+Driver: Andreas
+Seats: 1
+State: Completed
+Price: DKK 225
+Route: Fredericia -> København
+
+Ride route: Strandvejen 203 -> Algade 16
+Departure: 2023-05-24 20:30:00
+Driver: Clara
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: København -> Middelfart
+
+Ride route: Algade 16 -> Strandvejen 203
+Departure: 2023-05-24 06:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Middelfart -> København
+
+Ride route: Østerbrogade 70 -> Østergade 10
+Departure: 2023-05-23 18:00:00
+Driver: Espen
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Østerbrogade 70
+Departure: 2023-05-23 09:00:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Middelfart -> København
+
+Ride route: Istedgade 44 -> Brogade 3
+Departure: 2023-05-22 18:30:00
+Driver: Emma
+Seats: 1
+State: Completed
+Price: DKK 240
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Istedgade 44
+Departure: 2023-05-22 06:00:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 205
+Route: Middelfart -> København
+
+Ride route: Valby Langgade 34 -> Nørretorv 1
+Departure: 2023-05-19 20:45:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Valby Langgade 34
+Departure: 2023-05-19 09:45:00
+Driver: Maja
+Seats: 1
+State: Completed
+Price: DKK 170
+Route: Vejle -> København
+
+Ride route: Valby Langgade 34 -> Gothersgade 11
+Departure: 2023-05-17 20:30:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 185
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Valby Langgade 34
+Departure: 2023-05-17 09:30:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 220
+Route: Fredericia -> København
+
+Ride route: Rådhuspladsen 1 -> Buen 1
+Departure: 2023-05-16 19:00:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Buen 1 -> Rådhuspladsen 1
+Departure: 2023-05-16 07:15:00
+Driver: Laura
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Kolding -> København
+
+Ride route: Nordre Frihavnsgade 22 -> Gothersgade 11
+Departure: 2023-05-15 19:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Fredericia
+
+Ride route: Gothersgade 11 -> Nordre Frihavnsgade 22
+Departure: 2023-05-15 06:15:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Fredericia -> København
+
+Ride route: Sønder Boulevard 48 -> Akseltorv 5
+Departure: 2023-05-12 19:15:00
+Driver: Oliver
+Seats: 1
+State: Completed
+Price: DKK 160
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Sønder Boulevard 48
+Departure: 2023-05-12 06:00:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 250
+Route: Kolding -> København
+
+Ride route: Bernstorffsgade 16 -> Jernbanegade 5
+Departure: 2023-05-11 17:30:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 255
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Bernstorffsgade 16
+Departure: 2023-05-11 07:30:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 165
+Route: Fredericia -> København
+
+Ride route: Allégade 10 -> Nørretorv 1
+Departure: 2023-05-10 19:30:00
+Driver: Emil
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Vejle
+
+Ride route: Nørretorv 1 -> Allégade 10
+Departure: 2023-05-10 07:45:00
+Driver: William
+Seats: 1
+State: Completed
+Price: DKK 245
+Route: Vejle -> København
+
+Ride route: Østerbrogade 70 -> Jernbanegade 5
+Departure: 2023-05-09 18:15:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 155
+Route: København -> Fredericia
+
+Ride route: Jernbanegade 5 -> Østerbrogade 70
+Departure: 2023-05-09 08:15:00
+Driver: Noah
+Seats: 1
+State: Completed
+Price: DKK 200
+Route: Fredericia -> København
+
+Ride route: Toftegårds Allé 8 -> Østergade 10
+Departure: 2023-05-08 17:00:00
+Driver: Jonas
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: København -> Middelfart
+
+Ride route: Østergade 10 -> Toftegårds Allé 8
+Departure: 2023-05-08 06:00:00
+Driver: Freja
+Seats: 1
+State: Completed
+Price: DKK 235
+Route: Middelfart -> København
+
+Ride route: Toftegårds Allé 8 -> Brogade 3
+Departure: 2023-05-04 18:15:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Middelfart
+
+Ride route: Brogade 3 -> Toftegårds Allé 8
+Departure: 2023-05-04 06:45:00
+Driver: Sofie
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Middelfart -> København
+
+Ride route: Istedgade 44 -> Akseltorv 5
+Departure: 2023-05-03 17:30:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 230
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Istedgade 44
+Departure: 2023-05-03 07:45:00
+Driver: Anna
+Seats: 1
+State: Completed
+Price: DKK 215
+Route: Kolding -> København
+
+Ride route: Istedgade 44 -> Akseltorv 5
+Departure: 2023-05-02 20:45:00
+Driver: Lucas
+Seats: 1
+State: Completed
+Price: DKK 190
+Route: København -> Kolding
+
+Ride route: Akseltorv 5 -> Istedgade 44
+Departure: 2023-05-02 08:45:00
+Driver: Mikkel
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: Kolding -> København
+
+Ride route: Gammel Kongevej 80 -> Banegårdspladsen 2
+Departure: 2023-05-01 18:45:00
+Driver: Ida
+Seats: 1
+State: Completed
+Price: DKK 180
+Route: København -> Vejle
+
+Ride route: Banegårdspladsen 2 -> Gammel Kongevej 80
+Departure: 2023-05-01 09:15:00
+Driver: Oscar
+Seats: 1
+State: Completed
+Price: DKK 210
+Route: Vejle -> København
