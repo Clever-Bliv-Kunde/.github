@@ -23,13 +23,13 @@
           "existing": false
         },
         {
-          "name": "gh_clever-bliv-kunde_statistics-ui_staging",
-          "principalId": "3673fd8f-3613-4ff3-9fce-7999e3628562",
+          "name": "gh_clever-bliv-kunde_sales-statistics-ui_staging",
+          "principalId": "927c5e7f-db0b-4204-9cac-e060d82d8a3e",
           "existing": false
         },
         {
-          "name": "gh_clever-bliv-kunde_statistics-ui_development",
-          "principalId": "de5a0583-3a01-4368-9548-dc2a4fd8b949",
+          "name": "gh_clever-bliv-kunde_sales-statistics-ui_development",
+          "principalId": "23fcb836-fce3-420c-bad3-5f8e32b130e2",
           "existing": false
         },
         {
