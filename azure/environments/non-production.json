@@ -91,6 +91,16 @@
           "name": "gh_clever-bliv-kunde_sales-checkout-ui_staging",
           "principalId": "2d19faa9-6201-4d4e-ac3d-dc84b13a2628",
           "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_sales-agent-ui_staging",
+          "principalId": "2d7bd6de-e1eb-4733-93fe-3c37ec3307ba",
+          "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_sales-agent-ui_development",
+          "principalId": "3d2c44a7-3f1a-40be-bb66-65fb03679889",
+          "existing": false
         }
       ]
     }
