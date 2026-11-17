@@ -51,6 +51,11 @@
           "name": "gh_clever-bliv-kunde_sales-checkout-ui_production",
           "principalId": "e0b7478b-9153-4320-ac4b-3f4c1bd8b334",
           "existing": false
+        },
+        {
+          "name": "gh_clever-bliv-kunde_sales-agent-ui_production",
+          "principalId": "528f6262-bdce-4376-a5f1-bd9b6f7a2c57",
+          "existing": false
         }
       ]
     }
